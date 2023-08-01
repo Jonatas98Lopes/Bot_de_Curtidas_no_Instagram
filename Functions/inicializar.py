@@ -39,7 +39,7 @@ class GoogleChrome:
 
         self._wait = WebDriverWait(
             driver=self._driver,
-            timeout=200,
+            timeout=40,
             poll_frequency=1,
             ignored_exceptions=[
                 NoSuchElementException,
