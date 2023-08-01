@@ -27,41 +27,85 @@ Assista ao vídeo de funcionamento do projeto [clicando aqui!](https://www.linke
 ## Algoritmo do Projeto:
 
 1. Receber o nome de usuário no Instagram.
+
+
 2. Receber a senha do Instagram.
+
+
 3. Receber o nome da página que deseja monitorar.
+
+
 4. Receber o comentário padrão.
+
+
 5. Abrir o navegador.
+
+
 6. Acessar o site: https://www.instagram.com/
+
+
 7. Esperar a página carregar.
+
+
 A CADA 24 HORAS, DEVEMOS:
+    
+    
     8. Localizar o campo de nome de usuário.
+    
     9. Digitar o nome de usuário.
+    
     10. Localizar o campo de senha.
+    
     11. Digitar a senha do usuário.
+    
     12. Localizar o botão "Entrar".
+    
     13. Clicar no botão "Entrar".
+    
     14. Esperar a página carregar.
+    
     15. Acessar a página: https://www.instagram.com/NOMEDAPÁGINA/
+    
     16. Esperar a página carregar.
+    
     17. Localizar o post mais recente.
+    
     18. Clicar no post mais recente.
+    
     19. Esperar a página carregar.
+    
     20. Localizar o ícone de curtir.
+    
     CASO A FOTO NÃO ESTEJA CURTIDA:
+       
         21. Clicar no ícone de curtir.
+        
         22. Localizar o campo de comentário.
+        
         23. Digitar o comentário padrão no campo de comentário.
+        
         24. Localizar o botão "Publicar".
+        
         25. Clicar no botão "Publicar".
+        
         26. Esperar o post ser publicado.
+    
     27. Acessar a página: https://www.instagram.com/
+    
     28. Localizar o ícone de foto de usuário à esquerda.
+    
     29. Clicar nele.
+    
     30. Esperar a página carregar.
+    
     31. Localizar o ícone de configurações
+    
     32. Clicar nele.
+    
     33. Localizar o botão "Sair".
+    
     34. Clicar nele.
+    
     35. Parar por, pelo menos, 24 horas.
 
 ***
