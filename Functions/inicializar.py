@@ -30,10 +30,12 @@ class GoogleChrome:
             'profile.default_content_setting_values.automatic_downloads': 1
         }
 
-        self._chrome_options.add_experimental_option('prefs', self._experimental_options)
+        self._chrome_options.add_experimental_option('prefs', 
+        self._experimental_options)
 
 
-        self._driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=self._chrome_options)
+        self._driver = webdriver.Chrome(service=ChromeService\
+        (ChromeDriverManager().install()), options=self._chrome_options)
 
         self._wait = WebDriverWait(
             driver=self._driver,
