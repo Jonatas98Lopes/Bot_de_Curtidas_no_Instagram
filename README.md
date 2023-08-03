@@ -16,8 +16,6 @@ Neste projeto, vamos monitorar a curtida do post mais recente de uma página. Se
 
 * Possuir o navegador Google Chrome instalado.
 
-* Possuir uma resolução de tela de **1366 x 766**. É possível alterar essas configurações no seu sistema operacional. No Windows, por exemplo, procure por Configurações de exibição. 
-
 * Ter o perfil do Instagram em português brasileiro.
 
 Assista ao vídeo de funcionamento do projeto [clicando aqui!](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092271532390907904/)
